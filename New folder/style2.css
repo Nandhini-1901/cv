@@ -1,0 +1,19 @@
+/* styles.css (Add this part to your existing CSS) */
+.result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-align: left;
+}
+
+.result h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.result p {
+    font-size: 14px;
+    color: #555;
+}
